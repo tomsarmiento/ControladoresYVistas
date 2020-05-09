@@ -1,0 +1,1 @@
+Pude crear un usuario en la db y luego autentificarlo con jbcrypt
